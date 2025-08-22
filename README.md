@@ -2,6 +2,8 @@
 
 A GIAC-certified security professional with a career spanning from web development to threat research, now leading the security and administration for a university Cyber Range.
 
+Enhancing Cybersecurity education with one sticker and stuffed animal at a time. 
+
 <!--
 **ladylogarithm/ladylogarithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
