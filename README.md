@@ -2,7 +2,7 @@
 
 A GIAC-certified security professional with a career spanning from web development to threat research, now specializing in Cybersecurity Infrastructure and Analysis. I am currently expanding my offensive capabilities through preparation for the OSCP certification and building my personal lab.
 
-Enhancing Cybersecurity education one stuffed animal and sticker at a time.
+ Enhancing Cybersecurity education one stuffed animal and sticker at a time. If you see me in person feel free to ask me for a sticker. :-)
 
 <!--
 **ladylogarithm/ladylogarithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
